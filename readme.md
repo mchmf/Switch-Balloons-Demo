@@ -12,7 +12,7 @@ La plataforma ofrece a los usuarios la posibilidad de:
 * **Interfaz intuitiva:** Una experiencia de usuario sencilla y agradable.
 * **Formulario de contacto:** Un formulario fácil de usar para que los clientes se pongan en contacto.
 * **Galería de imágenes:** Muestra nuestros trabajos anteriores y la calidad de nuestros servicios.
-* 
+
 
 ## Tecnologías utilizadas
 
